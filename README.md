@@ -3,7 +3,7 @@
 
 - 🔭 I work as a  Site Reliability Engineer 
 - 🌱 I’m currently learning Python & Kubernetes 
-- 💬 Ask me about Information Technology
+- 💬 Ask me about IT Operations and Cloud Stratigies
 - 📫 How to reach me: my931uow@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love kayaking
